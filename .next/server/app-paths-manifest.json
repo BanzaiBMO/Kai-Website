@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/projects/3d_design/page": "app/projects/3d_design/page.js",
+  "/projects/art/page": "app/projects/art/page.js",
+  "/projects/electronics/page": "app/projects/electronics/page.js",
+  "/projects/japanese/page": "app/projects/japanese/page.js",
+  "/projects/programming/page": "app/projects/programming/page.js",
+  "/resume/page": "app/resume/page.js"
+}

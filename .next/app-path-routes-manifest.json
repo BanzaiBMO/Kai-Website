@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/projects/3d_design/page": "/projects/3d_design",
+  "/projects/art/page": "/projects/art",
+  "/projects/electronics/page": "/projects/electronics",
+  "/projects/japanese/page": "/projects/japanese",
+  "/projects/programming/page": "/projects/programming",
+  "/resume/page": "/resume"
+}
