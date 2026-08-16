@@ -14,7 +14,7 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/node": "26.2.0",
