@@ -3,8 +3,17 @@
   "pages404": true,
   "appType": "hybrid",
   "caseSensitive": false,
-  "basePath": "",
+  "basePath": "/Kai-Website",
   "redirects": [
+    {
+      "source": "/Kai-Website/",
+      "destination": "/Kai-Website",
+      "basePath": false,
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^/Kai-Website/$"
+    },
     {
       "source": "/:path+/",
       "destination": "/:path+",
