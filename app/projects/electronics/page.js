@@ -8,7 +8,7 @@ import Carosuel from "../../../components/carosuel";
 const electronicsItems = [
     {
         loading: "eager",
-        image: "/Kai-Website/projects-images/electronics-images/Charging Block Electronics.jpeg",
+        image: "/projects-images/electronics-images/Charging Block Electronics.jpeg",
         alt: "Charging Block",
         description:
             "I worked on a USB-C phone charger that transforms AC wall power into a steady DC input for safe wattage for the phone. It uses a step-down transformer and a full-wave rectifier for an easier AC to DC conversion, as well as a heat sink to bear excess heat without burning the charger or the connected device."
