@@ -30,7 +30,7 @@ export default function Carousel({items}) {
             <div className="carousel-item">
                 <Image
                     className="carousel-image"
-                    src="/projects-images/electronics-images/Charging Block Electronics.jpeg"
+                    src={currentItem.image}
                     alt={currentItem.alt}
                 />
                 <div className="carousel-text">
