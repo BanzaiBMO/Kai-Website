@@ -28,7 +28,7 @@ export default function Carousel({items}) {
             </button>
 
             <div className="carousel-item">
-                <Image
+                <img
                     className="carousel-image"
                     src={currentItem.image}
                     alt={currentItem.alt}
