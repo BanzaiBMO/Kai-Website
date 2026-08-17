@@ -22,7 +22,7 @@ export default function Resume() {
             const pdfjsLib = await import("pdfjs-dist");
 
             pdfjsLib.GlobalWorkerOptions.workerSrc =
-                "/resume-images/pdf.worker.mjs";
+                "https://banzaibmo.github.io/Kai-Website/resume-images/pdf.worker.mjs";
 
             const canvas = canvasRef.current;
 

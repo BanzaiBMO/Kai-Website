@@ -92,10 +92,10 @@
   },
   {
     "route": "/resume",
-    "firstLoadUncompressedJsBytes": 467413,
+    "firstLoadUncompressedJsBytes": 467452,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/0b61m8zwb3-91.js",
+      ".next/static/chunks/1pbqeuaxfj09t.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
