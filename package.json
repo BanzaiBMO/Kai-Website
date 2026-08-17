@@ -2,7 +2,6 @@
   "homepage": "https://banzaibmo.github.io/Kai-Website/",
   "type": "module",
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "next": "^16.3.0",
     "pdfjs-dist": "^6.2.108",
     "react": "^19.2.8",
@@ -13,8 +12,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
   },
   "devDependencies": {
     "@types/node": "26.2.0",
