@@ -1,10 +1,10 @@
 [
   {
     "route": "/projects/art",
-    "firstLoadUncompressedJsBytes": 494823,
+    "firstLoadUncompressedJsBytes": 494885,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/03nvxkbf7a-31.js",
+      ".next/static/chunks/0d5gp21i5a77o.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
@@ -14,10 +14,10 @@
   },
   {
     "route": "/projects/japanese",
-    "firstLoadUncompressedJsBytes": 492173,
+    "firstLoadUncompressedJsBytes": 492235,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/16nhdcns64vi3.js",
+      ".next/static/chunks/43zdshditm6yv.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
@@ -27,10 +27,10 @@
   },
   {
     "route": "/projects/programming",
-    "firstLoadUncompressedJsBytes": 490395,
+    "firstLoadUncompressedJsBytes": 490457,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/298hm_v6-4_kd.js",
+      ".next/static/chunks/199x43x106k_s.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
@@ -40,10 +40,10 @@
   },
   {
     "route": "/projects/electronics",
-    "firstLoadUncompressedJsBytes": 487145,
+    "firstLoadUncompressedJsBytes": 487207,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/2s59duhe884qq.js",
+      ".next/static/chunks/0kukwxfn_xqk5.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
@@ -53,10 +53,10 @@
   },
   {
     "route": "/projects/3d_design",
-    "firstLoadUncompressedJsBytes": 486452,
+    "firstLoadUncompressedJsBytes": 486514,
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/2p-08tfpe9zac.js",
+      ".next/static/chunks/0gtw6_v90ci0i.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
