@@ -53,7 +53,7 @@ export default function Home() {
             <div className="homepage">
                 <div className="intro">
 
-                    <img
+                    <Image
                         className="me"
                         src="https://banzaibmo.github.io/Kai-Website/profile.jpeg"
                         alt="It's me"
