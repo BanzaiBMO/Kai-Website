@@ -39,19 +39,6 @@
     ]
   },
   {
-    "route": "/projects/electronics",
-    "firstLoadUncompressedJsBytes": 487182,
-    "firstLoadChunkPaths": [
-      ".next/static/chunks/3fntmmi971322.js",
-      ".next/static/chunks/387_n6o52ajys.js",
-      ".next/static/chunks/01ns_a479u_kj.js",
-      ".next/static/chunks/22emux2du5j43.js",
-      ".next/static/chunks/128_2rkrmzbhs.js",
-      ".next/static/chunks/4561u0v7ysn3r.js",
-      ".next/static/chunks/turbopack-24-3d2o8ej_l3.js"
-    ]
-  },
-  {
     "route": "/projects/3d_design",
     "firstLoadUncompressedJsBytes": 486446,
     "firstLoadChunkPaths": [
@@ -70,6 +57,19 @@
     "firstLoadChunkPaths": [
       ".next/static/chunks/3fntmmi971322.js",
       ".next/static/chunks/38c38eh4nbc74.js",
+      ".next/static/chunks/01ns_a479u_kj.js",
+      ".next/static/chunks/22emux2du5j43.js",
+      ".next/static/chunks/128_2rkrmzbhs.js",
+      ".next/static/chunks/4561u0v7ysn3r.js",
+      ".next/static/chunks/turbopack-24-3d2o8ej_l3.js"
+    ]
+  },
+  {
+    "route": "/projects/electronics",
+    "firstLoadUncompressedJsBytes": 484448,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3fntmmi971322.js",
+      ".next/static/chunks/0gdyg0l-3v4e5.js",
       ".next/static/chunks/01ns_a479u_kj.js",
       ".next/static/chunks/22emux2du5j43.js",
       ".next/static/chunks/128_2rkrmzbhs.js",
