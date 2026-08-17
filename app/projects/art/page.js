@@ -8,7 +8,7 @@ import Carosuel from "../../../components/carosuel";
 const artItems = [
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Sam and Mack.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Sam%20and%20Mack.jpeg",
         alt: "Sam and Mack",
         title: "\"Sam and Mack\" - 2010",
         description:
@@ -18,7 +18,7 @@ const artItems = [
 
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Barn Art.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Barn%20Art.jpeg",
         alt: "The Lonely Farm of the Sunlight",
         title: "\"The Lonely Farm of the Sunlight\" - 2014",
         description:
@@ -27,7 +27,7 @@ const artItems = [
 
         {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Self Portrait.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Self%20Portrait.jpeg",
         alt: "Self-Portrait",
         title: "\"Self-Portrait\" - 2019",
         description:
@@ -36,7 +36,7 @@ const artItems = [
 
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Rocket Drawings.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Rocket%20Drawings.jpeg",
         alt: "Tokibunkatsu Rocket",
         title: "\"Tokibunkatsu Rocket\" - 2018",
         description:
@@ -45,7 +45,7 @@ const artItems = [
 
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Tarditroop.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Tarditroop.jpeg",
         alt: "Tarditroop",
         title: "\"Tarditroop\" - 2021",
         description:
@@ -54,7 +54,7 @@ const artItems = [
 
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Marker Art Collage.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Marker%20Art%20Collage.jpeg",
         alt: "A Bunch of Marker Art",
         title: "\"A Bunch of Marker Art\" - 2019-2020",
         description:
@@ -63,7 +63,7 @@ const artItems = [
 
     {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Shin Godzilla Art.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Shin%20Godzilla%20Art.jpeg",
         alt: "Shin Godzilla",
         title: "\"Shin Godzilla\" - 2020",
         description:
@@ -72,7 +72,7 @@ const artItems = [
 
         {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/Maxwell and his Starite.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/Maxwell%20and%20his%20Starite.jpeg",
         alt: "Scribblenauts' Maxwell and a Starite",
         title: "\"Scribblenauts' Maxwell and a Starite\" - 2022",
         description:
@@ -81,7 +81,7 @@ const artItems = [
 
         {
         loading: "eager",
-        image: require('../../../public/projects-images/art-images/BanzaiBMO Profile.jpeg'),
+        image: "https://banzaibmo.github.io/Kai-Website/projects-images/art-images/BanzaiBMO%20Profile.jpeg",
         alt: "BanzaiBMO",
         title: "\"BanzaiBMO\" - 2025",
         description:

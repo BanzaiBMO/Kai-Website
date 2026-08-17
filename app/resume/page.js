@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import NavBar from "../../components/navbar";
 
-const url = "/resume-images/Resume May 2026.pdf";
+const url = "https://banzaibmo.github.io/Kai-Website/resume-images/Resume%20May%202026.pdf";
 
 export default function Resume() {
     const canvasRef = useRef(null);
@@ -137,8 +137,6 @@ export default function Resume() {
             <main className="resume">
                 <p className="text">
                     Here is my resume. I will make updates to it when needed.
-                    <br />
-                    *download here*
                 </p>
 
                 <div className="top-bar">
