@@ -55,7 +55,7 @@ export default function Home() {
 
                     <image
                         className="me"
-                        src="/profile.jpeg"
+                        src="../public/profile.jpeg"
                         alt="It's me"
                         loading="eager"
                         width={200}
