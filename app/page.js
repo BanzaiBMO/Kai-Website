@@ -55,7 +55,7 @@ export default function Home() {
 
                     <Image
                         className="me"
-                        src="https://banzaibmo.github.io/Kai-Website/profile.jpeg"
+                        src="/Kai-Website/profile.jpeg"
                         alt="It's me"
                         loading="eager"
                         width={200}
