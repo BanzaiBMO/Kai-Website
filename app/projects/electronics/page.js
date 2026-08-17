@@ -5,6 +5,7 @@ import Image from "next/image";
 import NavBar from "../../../components/navbar";
 import Carosuel from "../../../components/carosuel";
 
+//there is history here with the image files...
 const electronicsItems = [
     {
         loading: "eager",

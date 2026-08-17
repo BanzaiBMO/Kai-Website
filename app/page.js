@@ -53,7 +53,7 @@ export default function Home() {
             <div className="homepage">
                 <div className="intro">
 
-                    <Image
+                    <image
                         className="me"
                         src="/profile.jpeg"
                         alt="It's me"
