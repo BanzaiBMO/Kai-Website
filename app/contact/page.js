@@ -9,10 +9,8 @@ export default function Contact() {
             <NavBar />
             <h1 className="text-title">Contact Me Here!</h1>
             <main className="contact">
-                <div className="text">
-                    <p>Email: krd55610@uga.edu</p>
-                    <p>Handshake: ???</p>
-                </div>
+                
+                <p className="text">Email: krd55610@uga.edu</p>
 
                 <section>
                     <form
