@@ -53,9 +53,9 @@ export default function Home() {
             <div className="homepage">
                 <div className="intro">
 
-                    <Image
+                    <img
                         className="me"
-                        src="/profile.jpeg"
+                        src="https://banzaibmo.github.io/Kai-Website/profile.jpeg"
                         alt="It's me"
                         loading="eager"
                         width={200}
