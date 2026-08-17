@@ -53,9 +53,9 @@ export default function Home() {
             <div className="homepage">
                 <div className="intro">
 
-                    <img
+                    <Image
                         className="me"
-                        src="../public/profile.jpeg"
+                        src="/profile.jpeg"
                         alt="It's me"
                         loading="eager"
                         width={200}
