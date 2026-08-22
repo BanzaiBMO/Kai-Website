@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import NavBar from "../../components/navbar";
 
-const url = "https://banzaibmo.github.io/Kai-Website/resume-images/Resume%20May%202026.pdf";
+const url = "https://banzaibmo.github.io/Kai-Website/resume-images/Resume%20August%202026.pdf";
 
 export default function Resume() {
     const canvasRef = useRef(null);
